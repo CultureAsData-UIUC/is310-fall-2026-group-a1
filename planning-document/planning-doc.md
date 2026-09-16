@@ -6,6 +6,8 @@ One of our main ideas is that popularity doesn’t have one main definition, it 
 
 We want to look at investigating measurable indicators of popularity and cultural context that those measurements may leave out. We will mainly look at entertainment, media, etc. and will probably not look much at political popularity, consumer brands, etc. 
 
+---
+
 ### Individual Project Ideas:
 
 Aashi Agarwal - How movie popularity changes across audiences/platforms
@@ -34,12 +36,15 @@ https://socialblade.com/tiktok/lists/top/100/followers
 https://socialblade.com/instagram/lists/top/100/followers
 https://socialblade.com/youtube
 
+---
 
 ### Scholarly Context 
 
 Our projects will look at papers/literature about platforms, audiences, and “popular” culture, to help us think about how popularity can be measured. One helpful source would be The Platform Society (2018) by Jose Van Dijck, Thomas Poell, and Martijn de Waal. They look at how digital platforms can help organize cultural and social activity. This is useful because platforms are not really just neutral for recording popularity. Their structures, metrics, and way of organizing content can really influence how users understand cultural success.
 
 This reading will help us differentiate between popularity as a cultural thing versus popularity as a metric. As our individual projects become more niche, we will find literature related to our media forms to help us make more informed decisions.
+
+---
 
 ### Collaboration Plan
 
