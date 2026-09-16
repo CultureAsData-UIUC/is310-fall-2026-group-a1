@@ -4,4 +4,4 @@
 
 ### Names: Sara, Aidan, Aashi, Aadam, Jack
 
-Read our [Planning Document](planning-document\planning-doc.md) here
+Read our [Planning Document](/planning-document/planning-doc.md) here
