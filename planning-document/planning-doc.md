@@ -52,10 +52,10 @@ For my sources, I plan to do a mix of scholarly and popular sources.  For a topi
 
 Sara Johnson - I want to examine what kinds of content and creators become popular across different platforms. I’d like to examine around 50-100 of the top TikTok, Instagram, and Youtube accounts each to gauge metrics such as view counts, audience target, and what content they produce. I think if I have time, it would also be interesting to examine these trends over time by year. My goal with this research is to examine what types of content become popular across different platforms, and if medium (such as long-form vs. short-form) makes a difference to the type of content that is popular. To get data for my research, I will rely on a mix of external websites for overall data, and then individual explorations of social media accounts via Tiktok or Instagram. 
 
-Here are some of the sources I’m planning to use:
-https://socialblade.com/tiktok/lists/top/100/followers
-https://socialblade.com/instagram/lists/top/100/followers
-https://socialblade.com/youtube
+Here are some of the sources I’m planning to use: 
+- [Top 100 Accounts of Tiktok](https://socialblade.com/tiktok/lists/top/100/followers)
+- [Top 100 Accounts of Instagram](https://socialblade.com/instagram/lists/top/100/followers)
+- [Top Youtube Accounts](https://socialblade.com/youtube)
 
 ---
 
