@@ -25,6 +25,13 @@ For my custom dataset, I would like to get a number of different sources using t
 
 For the audit, I would like to look at comparing the popularity of different types of TTRPGs as this recent explosion in popularity has not been spread equally across the vast ocean of games. This shows the difference in popularity of different subtypes of a group, even if the larger group as a whole is being lifted.
 
+Sara Johnson - I want to examine what kinds of content and creators become popular across different platforms. I’d like to examine around 50-100 of the top TikTok, Instagram, and Youtube accounts each to gauge metrics such as view counts, audience target, and what content they produce. I think if I have time, it would also be interesting to examine these trends over time by year. My goal with this research is to examine what types of content become popular across different platforms, and if medium (such as long-form vs. short-form) makes a difference to the type of content that is popular. To get data for my research, I will rely on a mix of external websites for overall data, and then individual explorations of social media accounts via Tiktok or Instagram. 
+
+Here are some of the sources I’m planning to use: 
+- [Top 100 Accounts of Tiktok](https://socialblade.com/tiktok/lists/top/100/followers)
+- [Top 100 Accounts of Instagram](https://socialblade.com/instagram/lists/top/100/followers)
+- [Top Youtube Accounts](https://socialblade.com/youtube)
+
 Aadam Pinnow - How much popular music is released independently versus from big labels. I would like to look through the Billboard Hot 100 over the past decade and examine what percentage are released independently. I could also look through the Billboard Artist 100 over the past decade and see what percentage are backed by major labels.
 
 Jack Miller - For my project, I will explore trends within audio drama spaces, with a focus on themes such as independent creators, passion projects, marketability/monetization, and representation.  I am particularly interested in how a low barrier to entry correlates with representation, as well as interrogating how monetization of a creative work can affect the result.  
@@ -48,14 +55,6 @@ For my sources, I plan to do a mix of scholarly and popular sources.  For a topi
 - [Where radio dare not tread: Podcasts as queer audio media](https://doi.org/10.1386/rjao_00073_1)
 [A Structural and Content Analysis of Queer Characters and Themes in the Audio Drama EOS 10](https://scholarworks.seattleu.edu/suurj/vol9/iss1/15/)
 - [Education, Community, Narrative Voices: The Internet as a Queer Storytelling Platform](https://jstor.org/stable/community.36514022)
-
-
-Sara Johnson - I want to examine what kinds of content and creators become popular across different platforms. I’d like to examine around 50-100 of the top TikTok, Instagram, and Youtube accounts each to gauge metrics such as view counts, audience target, and what content they produce. I think if I have time, it would also be interesting to examine these trends over time by year. My goal with this research is to examine what types of content become popular across different platforms, and if medium (such as long-form vs. short-form) makes a difference to the type of content that is popular. To get data for my research, I will rely on a mix of external websites for overall data, and then individual explorations of social media accounts via Tiktok or Instagram. 
-
-Here are some of the sources I’m planning to use: 
-- [Top 100 Accounts of Tiktok](https://socialblade.com/tiktok/lists/top/100/followers)
-- [Top 100 Accounts of Instagram](https://socialblade.com/instagram/lists/top/100/followers)
-- [Top Youtube Accounts](https://socialblade.com/youtube)
 
 ---
 
