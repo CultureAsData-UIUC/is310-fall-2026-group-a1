@@ -25,12 +25,28 @@ For my custom dataset, I would like to get a number of different sources using t
 
 For the audit, I would like to look at comparing the popularity of different types of TTRPGs as this recent explosion in popularity has not been spread equally across the vast ocean of games. This shows the difference in popularity of different subtypes of a group, even if the larger group as a whole is being lifted.
 
-Sara Johnson - I want to examine what kinds of content and creators become popular across different platforms. I’d like to examine around 50-100 of the top TikTok, Instagram, and Youtube accounts each to gauge metrics such as view counts, audience target, and what content they produce. I think if I have time, it would also be interesting to examine these trends over time by year. My goal with this research is to examine what types of content become popular across different platforms, and if medium (such as long-form vs. short-form) makes a difference to the type of content that is popular. To get data for my research, I will rely on a mix of external websites for overall data, and then individual explorations of social media accounts via Tiktok or Instagram. 
+Sara Johnson - I want to examine what kinds of content and creators become popular across different platforms. I’d like to examine around 50-100 of the top [TikTok](https://socialblade.com/tiktok/lists/top/100/followers), [Instagram](https://socialblade.com/instagram/lists/top/100/followers), and [Youtube](https://socialblade.com/youtube) accounts each to gauge metrics such as view counts, audience target, and what content they produce. I also am interested in exploring platforms such as Reddit and Pinterest. My goal with this research is to examine what types of content become popular across different platforms, and if medium (such as long-form vs. short-form) makes a difference to the type of content that is popular. 
 
-Here are some of the sources I’m planning to use: 
-- [Top 100 Accounts of Tiktok](https://socialblade.com/tiktok/lists/top/100/followers)
-- [Top 100 Accounts of Instagram](https://socialblade.com/instagram/lists/top/100/followers)
-- [Top Youtube Accounts](https://socialblade.com/youtube)
+By types of content, I'm looking to catagorize data across certain genres to find platform specific patterns. One example of the nuance I'm trying to target can be seen in both Reddit and Tiktok. [Reddit's top community](https://linkeddit.com/blog/largest-subreddits-2026) is r/funny, while Tiktok's most followed creator is Khaby Lame, a humor-based content creator.
+
+Here is the top post from r/funny on Reddit.
+
+<img src="images/sara-topreddit.png" width="400">
+
+One of Khaby Lame's top videos on Tiktok.
+
+<img src="images/sara-toptiktok.gif" width="400">
+
+As you can see, there is a difference in humor between both pieces of media. There have been some studies done into the nuances of humor that I'd like to reference and attribute content across platforms to. For example, [this article](https://pubmed.ncbi.nlm.nih.gov/33342368/) does a great job of identifying different types of humor, and what makes things humorous.
+
+The other types of content I'd like to explore too are topics such as food and fashion across platforms cross-referenced with platform demographics. For example in the food category, examining the #recipie tag on Instagram might yield similar or different content than #recipie on Tiktok or Youtube. For fashion, I'd like to see the differences in some of the top fashion tags, and how each platform's users identfy styles (for example streetwear, professional wear, and alternative styles). My goal is to perform these sub-analysis within the lists of top topics/accounts, so that popularity remains the defining exploration point of my data.
+
+The exploration I'm performing differs from simply scraping top sites's webpages and compiling those results because they will not have the nuances of the categories I will introduce to the popular content categories. I will also be creating new datasets based on those popular accounts under the fields of humor, food, fashion, or any other additionally popular categories that I find as I explore this data.
+
+For fashion, I'll be referring to some [modern lists of fashion styles](https://www.litlookzstudio.com/blogs/aesthetics/types-of-aesthetics?srsltid=AU7gw4XWCk6UMG3x-ARaSl5hMvAdVEfAZqlFDsnJ8-rX35M0ZfSLFvgM) for appropriate terminology, and attempting to define fields as I create my project.  
+
+Overall, my part will tie into the core themes of popularity by examining what gets popular on platforms, and the reasons for popularity. It will also discover popular subcategories for different platform topics, and provide more data surrounding the subcultures found on internet platforms. This data will have most relevancy to the current year however, and I might try to see what can be done to extend the relevancy of my dataset for future research into these platforms and cultural topics. 
+
 
 Aadam Pinnow - How much popular music is released independently versus from big labels. I would like to look through the Billboard Hot 100 over the past decade and examine what percentage are released independently. I could also look through the Billboard Artist 100 over the past decade and see what percentage are backed by major labels.
 
