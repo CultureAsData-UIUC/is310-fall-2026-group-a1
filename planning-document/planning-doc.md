@@ -19,7 +19,7 @@ For the audit I will try to compare movies across Rotten Tomatoes and Letterboxd
 
 Links: [Explanation of tomatometer](https://www.rottentomatoes.com/about), [Letterbox rating methodology](https://letterboxd.zendesk.com/hc/en-us/articles/15269023950223-How-is-the-average-rating-calculated-for-a-film),  [IMDb ratings dataset](https://data.imdb.com/non-commercial-datasets/)
 
-Aidan Lueken - How the recent increase in TTRPG popularity has allowed them to be seen as effective means to help others in a more serious fashion than just gaming with friends. I would like to look at different uses of TTRPGs like Dungeons and Dragons that are being recently created in the medical fields of psychiatry and other forms of therapy. I would like to take a look at a number of studies and see the methods that they use to better improve the lives of those who use them for the purpose of treatment.
+Aidan Lueken - Show the recent increase in TTRPG popularity has allowed them to be seen as effective means to help others in a more serious fashion than just gaming with friends. I would like to look at different uses of TTRPGs like Dungeons and Dragons that are being recently created in the medical fields of psychiatry and other forms of therapy. I would like to take a look at a number of studies and see the methods that they use to better improve the lives of those who use them for the purpose of treatment.
 
 For my custom dataset, I would like to get a number of different sources using these games and log the type of treatment, the reason for using the game instead of something else, as well as the results of this treatment. I may also look at public perception of this form of treatment.
 
