@@ -27,7 +27,28 @@ For the audit, I would like to look at comparing the popularity of different typ
 
 Aadam Pinnow - How much popular music is released independently versus from big labels. I would like to look through the Billboard Hot 100 over the past decade and examine what percentage are released independently. I could also look through the Billboard Artist 100 over the past decade and see what percentage are backed by major labels.
 
-Jack Miller - 
+Jack Miller - For my project, I will explore trends within audio drama spaces, with a focus on themes such as independent creators, passion projects, marketability/monetization, and representation.  I am particularly interested in how a low barrier to entry correlates with representation, as well as interrogating how monetization of a creative work can affect the result.  
+
+For this, I will likely be focusing on a few audio dramas as a set of case studies; currently I am leaning towards [Welcome to Night Vale](https://www.welcometonightvale.com/), [The Magnus Archives](https://rustyquill.com/show/the-magnus-archives/), [Camp Here and There](https://blue-wolfe.com/podcast/welcome-to-camp-here-there/), [Malevolent](https://www.malevolent.ca/), [Mercy: A Queer Eldritch Western](https://strangekindstudio.weebly.com/mercy.html), and [The Mechadova Engine](https://mechadovapod.com/).  Each of these audio dramas fills a different role with regards to what I could learn from it.  
+WTNV started as an independent passion project and grew into its own brand, and TMA was produced and distributed through Rusty Quill - both of these are examples of audio dramas with monetary backing behind them (though in different ways and at different stages).  (Self indulgently, if it fits well, I may also bring [The Penumbra Podcast](https://www.thepenumbrapodcast.com/) in as a third example.)
+CHNT and Malevolent are both fully funded through audience patronage, though Malevolent also runs ads.  Both of these are also fully independent projects, with CHNT being primarily headed by Blue Wolfe and hiring voice actors and other roles, and Malevolent being completely created by one person, Harlan Guthrie.  
+
+Mercy and Mechadova both represent audio dramas from a small studio/creator respectively that are fully passion projects, with little to no funding.  Mercy has no Patreon or equivalent crowdfunding platform and runs no ads, and Mechadova is an up and coming audio drama that is fully crowdfunded.  I believe that Mechadova will provide an interesting look at audio dramas in their earliest stages, however, if there's not enough material to reference/study, I may swap it out for [Killjam XXX](https://linktr.ee/killjamxxx), which has essentially an identical financial situation as Mercy.  
+
+(If it's relevant, I may also bring up the audio drama that I helped to create!  I was one of the team heads, and worked on concepting, editing and finalizing our script, voicing the main character, as well as all of the vocal+audio editing and soundscaping.  It was an incredible experience, both from a creative standpoint as well as giving me a strong understanding of what all goes into making an audio drama.  I'm also in several audio drama Discord servers, so if my project would be well served by it, I could potentially conduct interviews or surveys of fans and creators.)
+
+For my custom dataset, I would likely use the above audio dramas to analyze the number of listens or reviews over time and the presence of ads, to see if there's a correlation between the two.  However, I would like to keep this flexible, in case I uncover a more compelling question in my research.  
+
+For my audit, I would need to find an existing dataset of audio dramas to review.  There's currently an [ongoing data-gathering project](https://www.tumblr.com/augusttapes/826956543788548096/theres-no-data-on-representation-in-audio-drama) that I've got my eyes on, but as it's not complete, I won't commit to it yet. 
+
+For my sources, I plan to do a mix of scholarly and popular sources.  For a topic like this, I believe that it would be beneficial to look at qualitative, lived experiences and opinions in addition to academic studies and analyses.  These are some of the potential scholarly sources I may reference:
+
+- [Podcasting, Welcome to Night Vale, and the Revival of Radio Drama](https://doi.org/10.1080/19376529.2015.1083370)
+- [The Rise and Power of Audio Storytelling in the 21st Century: A Critical Review](https://doi.org/10.36227/techrxiv.22697422.v1)
+- [Where radio dare not tread: Podcasts as queer audio media](https://doi.org/10.1386/rjao_00073_1)
+[A Structural and Content Analysis of Queer Characters and Themes in the Audio Drama EOS 10](https://scholarworks.seattleu.edu/suurj/vol9/iss1/15/)
+- [Education, Community, Narrative Voices: The Internet as a Queer Storytelling Platform](https://jstor.org/stable/community.36514022)
+
 
 Sara Johnson - I want to examine what kinds of content and creators become popular across different platforms. I’d like to examine around 50-100 of the top TikTok, Instagram, and Youtube accounts each to gauge metrics such as view counts, audience target, and what content they produce. I think if I have time, it would also be interesting to examine these trends over time by year. My goal with this research is to examine what types of content become popular across different platforms, and if medium (such as long-form vs. short-form) makes a difference to the type of content that is popular. To get data for my research, I will rely on a mix of external websites for overall data, and then individual explorations of social media accounts via Tiktok or Instagram. 
 
