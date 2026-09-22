@@ -17,7 +17,7 @@ For my custom dataset I want to collect 50-100 movies and include things like ti
 
 For the audit I will try to compare movies across Rotten Tomatoes and Letterboxd, and IMDb or box office data. I want to see if the movie seems equally “popular” across different platforms and what does each one of these platforms leave out. This connects to our theme of whether popularity can be represented by a single number.
 
-Links: https://www.rottentomatoes.com/about explanation of tomatometer, https://letterboxd.zendesk.com/hc/en-us/articles/15269023950223-How-is-the-average-rating-calculated-for-a-film letterbox rating methodology, https://data.imdb.com/non-commercial-datasets/ IMDb ratings dataset
+Links: [Explanation of tomatometer](https://www.rottentomatoes.com/about), [Letterbox rating methodology](https://letterboxd.zendesk.com/hc/en-us/articles/15269023950223-How-is-the-average-rating-calculated-for-a-film),  [IMDb ratings dataset](https://data.imdb.com/non-commercial-datasets/)
 
 Aidan Lueken - How the recent increase in TTRPG popularity has allowed them to be seen as effective means to help others in a more serious fashion than just gaming with friends. I would like to look at different uses of TTRPGs like Dungeons and Dragons that are being recently created in the medical fields of psychiatry and other forms of therapy. I would like to take a look at a number of studies and see the methods that they use to better improve the lives of those who use them for the purpose of treatment.
 
