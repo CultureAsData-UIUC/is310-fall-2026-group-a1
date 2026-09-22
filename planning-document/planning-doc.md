@@ -31,7 +31,7 @@ By types of content, I'm looking to catagorize data across certain genres to fin
 
 Here is the top post from r/funny on Reddit.
 
-<img src="images/sara-topreddit.png" width="400">
+<img src="images/sara-topreddit.png" width="800">
 
 One of Khaby Lame's top videos on Tiktok.
 
