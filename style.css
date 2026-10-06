@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.my-box {
+    background-color: white;
+    width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 300px;
+}
+
+.back-button {
+    display: inline-block;
+    text-decoration: none;
+    outline: 0;
+    text-align: center;
+    cursor: pointer;
+    padding: 17px 30px;
+    border: 2px solid #000;
+    color: #000;
+    background: transparent;
+    font-size: 17.5px;
+    font-weight: 800;
+    line-height: 30px;
+    transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+}
+
+.back-button:hover {
+    background-color: darkblue;
+    color: #fff;
+}
