@@ -34,6 +34,15 @@ When I have collected initial data from the platform, I am going to analyze popu
 # Collecting & Structuring Cultural Data
 Platform: Tiktok
 
+I used [Playwright](https://playwright.dev/)to manage a Chromium build, which I then used to open a guest instance of the Tiktok Explore page. I made sure to identify myself through the user_agent parameter.
+
+Once the instance of Chromium is launched, I had the scraper capture page responses sent as the page loaded in, then closed the instance of Chromium. Each pass of the tool typically yielded around 25-35 video links which I could then pursue and scrape for statistics. 
+
+I used this method because doing so allowed the scraper to avoid encountering the Captcha. When the Tiktok explore page opens for a guest, it opens immediately to a video. To avoid affecting the algorithm by pausing on a potential Captcha or other screen (such as the mandatory birthday input for guest users), this method was the cleanest. 
+
+This method also yielded some interesting additional information. Around 67 of the original 224 videos collected were duplicates in the raw data, which is around 29% total. This could point to there being specifically curated videos (or a curation formula) for the Explore page for all new users. The alternate explanation is that my computer, which carries my IP and location was being served similar videos. However, both theories give us an another initial insight into popularity on the site.
+
+I've removed duplicates using a simple Jupytr notebook (quickremove.ipynb in the dataset folder) and put a csv of unique videos in the same folder.
 
 
 
