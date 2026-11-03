@@ -34,7 +34,7 @@ When I have collected initial data from the platform, I am going to analyze popu
 # Collecting & Structuring Cultural Data
 Platform: Tiktok
 
-I used [Playwright](https://playwright.dev/)to manage a Chromium build, which I then used to open a guest instance of the Tiktok Explore page. I made sure to identify myself through the user_agent parameter.
+I used [Playwright](https://playwright.dev/) with Chromium to open a guest instance of the Tiktok Explore page. I made sure to identify myself through the user_agent parameter.
 
 Once the instance of Chromium is launched, I had the scraper capture page responses sent as the page loaded in, then closed the instance of Chromium. Each pass of the tool typically yielded around 25-35 video links which I could then pursue and scrape for statistics. 
 
