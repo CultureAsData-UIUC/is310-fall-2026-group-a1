@@ -1,7 +1,10 @@
-# Initial Custom Dataset and Audit Plan
-### Author: Sara Johnson
+# Initial Custom Dataset and Audit Plan (GROUP)
+### Author: Sara Johnson, add more
 
-## Dataset Fields 
+
+
+## Tiktok Database
+#### Dataset Fields 
 
 | Text | Raw | Description of Field |
 | -------- | -------- | -------- |
