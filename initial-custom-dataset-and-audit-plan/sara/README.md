@@ -23,7 +23,7 @@ The fields here were determined after examining the data present when web-scrapi
 
 *This data was collected on 11/3/2026 at 12:00pm - 1:00pm.*
 
----
+
 
 ## Revised Proposal
 
