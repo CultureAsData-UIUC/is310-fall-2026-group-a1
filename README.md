@@ -2,17 +2,17 @@
 
 ![Popularity](images/coverphoto.jpg)
 
-### Names: Sara, Aidan, Aashi, Aadam, Jack
+##### Names: Sara, Aidan, Aashi, Aadam, Jack
 
 Read our [Planning Document](/planning-document/planning-doc.md) here
 
-# Project Datasets
+### Project Datasets
 
-## Tiktok Explore Page - Dataset
+##### Tiktok Explore Page - Dataset
 
 Sara: [Initial Dataset](initial-custom-dataset-and-audit-plan/sara)
 
-#### Dataset Fields 
+###### Dataset Fields 
 
 The fields here were determined after examining the data present when web-scraping the Tiktok Explore page on a fresh account . All initial data was scraped on 11/3/2026 from 12:00pm - 1:00pm.
 

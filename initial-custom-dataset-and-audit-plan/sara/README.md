@@ -31,7 +31,7 @@ I have updated the topic of my proposal to mainly center around the platform Tik
 
 When I have collected initial data from the platform, I am going to analyze popularity on Tiktok, mainly by examining what types of videos, hashtags, and content comprise the videos on a new user's Explore page. I would also like to examine the impact of video duration on content type and popularity.
 
-# Collecting & Structuring Cultural Data
+## Collecting & Structuring Cultural Data
 Platform: Tiktok
 
 I used [Playwright](https://playwright.dev/) with Chromium to open a guest instance of the Tiktok Explore page. I made sure to identify myself through the user_agent parameter.
@@ -44,5 +44,20 @@ This method also yielded some interesting additional information. Around 67 of t
 
 I've removed duplicates using a simple Jupytr notebook (quickremove.ipynb in the dataset folder) and put a csv of unique videos in the same folder.
 
+## Audit and Connection Plan
 
+The platform I will be auditing is Tiktok. While Tiktok does have an official API, it is only accessible to researchers and must be applied to. Hopefully by making my method of scraping public, I will contribute to more accessible research methods for this platform. The findings regarding popularity from this data will help me understand the culture behind popularity on the 5th most popular social media platform globally.
 
+In "What's on Top of Tiktok", McNulty discusses how Tiktok's API "remains largely untested in published research due to foreboding terms of service", meaning that it is tricker to collect data from these platforms for research. And yet, they also mention in the same article how if we don't have access to this data, we have no idea what people are spending hours of their lives doing on these platforms. My project is already bridging this gap by providing an avenue for collecting data from Tiktok. 
+
+According to the Pew Research Center's "Teen's Experiences on Tiktok", teens are regularly using the platform for things like 'product reviews, 'entertainment', 'keeping up with celebrities', and 'keeping up with politics'. With young people using the platform for this purpose, I am interested as well how a platform such as Tiktok, which functions differntly to other platforms in that it serves videos to users instead of having them search for them, can influence these activities.
+
+Now that I have collected my data, I plan to use data visualization tools and libraries such as matplotlib and pandas to create charts that help to model and explain findings regarding popularity on platforms. 
+
+Sources:
+- https://www.publicbooks.org/whats-on-top-of-tiktok/
+- https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/
+
+## Reflection
+
+What is working on my project is that I was able to scrape the data off of Tiktok successfully. The scope of my original proposal was made with the assumption I would not be able to scrape this data, so now I am able to adjust it more appropriately. I will be adjusting the direction of the project to be centered around modeling and understanding actual metrics behind popular videos on the Explore page, rather than just focusing on humor. 
