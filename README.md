@@ -36,3 +36,11 @@ The fields here were determined after examining the data present when web-scrapi
 *This data was collected on 11/3/2026 at 12:00pm - 1:00pm.*
 
 ---
+
+##### Movie Popularity - Dataset
+
+Aashi: [Initial Dataset](initial-custom-dataset-and-audit-plan/aashi/output/movie_reception_final.csv)
+
+###### Dataset Summary
+
+This dataset has data on 60 movies with Rotten Tomatoes critics and audience scores, Letterboxd ratings, and a calculates gap between audience and critic reviews. Then the movies are classified into audience favored, critic favored, and similar reception, and there are 20 of each. I also added review themes and observartions for 53 movies (7 missing), based on a randomly selected review for the movies, to show things that numerical ratings alone may not show. This helps us compare how critics and audiences respond to movies differently, and across different platforms.
