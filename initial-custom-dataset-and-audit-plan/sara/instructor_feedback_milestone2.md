@@ -83,3 +83,5 @@ I liked your use use of the McNulty and Pew Research sources, and especially how
 - Document field definitions, Playwright’s role, access restrictions, and the collection workflow.
 - Address creator privacy, platform transience, and responsible reuse.
 - Potentially add scholarship on recommendation systems and the limits of inferring algorithms from platform outputs.
+
+Overall, this is a strong and thoughtfully revised project. The most productive next step is to combine several additional collection runs with a focused interpretive analysis of repeated videos, hashtags, and missing data so that the final project can investigate how TikTok constructs popularity rather than simply reproducing the platform’s engagement measures.
